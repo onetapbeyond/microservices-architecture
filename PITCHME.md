@@ -39,7 +39,6 @@
 <!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
-<!-- .slide: data-background-transition="fade" -->
 
 ## What if something goes wrong?
 
@@ -73,7 +72,6 @@
 <!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
-<!-- .slide: data-background-transition="fade" -->
 
 ## Pattern 1: Circuit breakers
 
@@ -92,7 +90,6 @@
 <!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
-<!-- .slide: data-background-transition="fade" -->
 
 ## Pattern 2: Failure recovery
 
@@ -105,7 +102,6 @@
 <!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
-<!-- .slide: data-background-transition="fade" -->
 
 ## Failure can lead to inconsistency
 
@@ -129,7 +125,6 @@
 <!-- .slide: data-background-transition="none" -->
 
 #VSLIDE
-<!-- .slide: data-background-transition="fade" -->
 
 ## Inconsistency from failure
 
@@ -156,7 +151,6 @@
 <!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
-<!-- .slide: data-background-transition="fade" -->
 
 ## Unacceptable degradation
 
@@ -170,7 +164,6 @@
 <!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
-<!-- .slide: data-background-transition="fade" -->
 
 ## Pattern 4: Denormalize
 
@@ -188,7 +181,6 @@
 <!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
-<!-- .slide: data-background-transition="fade" -->
 
 ## Summary
 
