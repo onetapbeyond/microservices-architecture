@@ -1,0 +1,8 @@
+/* increases contrast on background */
+#presentation h2, #presentation li, #presentation p {
+    text-shadow: #421540 0 0 0.2em;
+}
+
+#presentation a, #presentation a:visited {
+    color: white;
+}
