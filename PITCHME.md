@@ -28,10 +28,15 @@ Lightbend
 - Will one day overtake ebay!                   <!-- .element: class="fragment" -->
 
 #VSLIDE?image=assets/img0.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img1.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img2.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img3.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img4.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img5.png
 
 #HSLIDE
@@ -58,8 +63,6 @@ Lightbend
     - e.g. REST                                     <!-- .element: class="fragment" -->
 - Both systems must be responsive at the same time  <!-- .element: class="fragment" -->
 
-#VSLIDE
-
 #VSLIDE?image=assets/img5.png
 #VSLIDE?image=assets/img6.png
 #VSLIDE?image=assets/img7.png
@@ -74,8 +77,6 @@ Lightbend
 - Protects already failing services             <!-- .element: class="fragment" -->
 - Allows fail fast handling                     <!-- .element: class="fragment" -->
 
-#VSLIDE
-
 #VSLIDE?image=assets/img9.png
 #VSLIDE?image=assets/img10.png
 #VSLIDE?image=assets/img11.png
@@ -88,16 +89,12 @@ Lightbend
 - Work around failure by degrading                  <!-- .element: class="fragment" -->
 - Not every call is necessary to render every page  <!-- .element: class="fragment" -->
 
-#VSLIDE
-
 #VSLIDE?image=assets/img13.png
 #VSLIDE?image=assets/img14.png
 
 #HSLIDE
 
 ## Failure can lead to inconsistency
-
-#VSLIDE
 
 #VSLIDE?image=assets/img15.png
 #VSLIDE?image=assets/img16.png
@@ -124,8 +121,6 @@ Lightbend
 - Perfect if you already persist events             <!-- .element: class="fragment" -->
 - Use persistent events as a source of messages     <!-- .element: class="fragment" -->
 
-#VSLIDE
-
 #VSLIDE?image=assets/img17.png
 #VSLIDE?image=assets/img24.png
 #VSLIDE?image=assets/img25.png
@@ -140,8 +135,6 @@ Lightbend
 - Price was also $0                                         <!-- .element: class="fragment" -->
 - Users may tolerate no history, but not wrong price        <!-- .element: class="fragment" -->
 
-#VSLIDE
-
 #VSLIDE?image=assets/img28.png
 #VSLIDE?image=assets/img29.png
 
@@ -154,8 +147,6 @@ Lightbend
     - Important for business functions              <!-- .element: class="fragment" -->
 - Store duplicated information in those services    <!-- .element: class="fragment" -->
     - AKA denormalization                           <!-- .element: class="fragment" -->
-
-#VSLIDE
 
 #VSLIDE?image=assets/img30.png
 #VSLIDE?image=assets/img31.png
