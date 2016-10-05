@@ -4,9 +4,11 @@
     top: 0;
 }
 
+/*
 .image-fragments > img:first-child {
     position: relative;
 }
+*/
 
 .image-fragments > img {
     position: absolute;
