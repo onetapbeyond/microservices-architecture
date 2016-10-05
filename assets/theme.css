@@ -18,6 +18,10 @@
     top: 0;
 }
 
+.reveal section img {
+    margin: 5px 0px;
+}
+
 .reveal section .image-fragments img {
     border: 0;
     box-shadow: none;
