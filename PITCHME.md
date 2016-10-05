@@ -36,9 +36,10 @@
 #VSLIDE?image=assets/img4.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img5.png
-<!-- .slide: data-background-transition="fade" -->
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
+<!-- .slide: data-background-transition="fade" -->
 
 ## What if something goes wrong?
 
@@ -69,9 +70,10 @@
 #VSLIDE?image=assets/img7.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img8.png
-<!-- .slide: data-background-transition="fade" -->
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
+<!-- .slide: data-background-transition="fade" -->
 
 ## Pattern 1: Circuit breakers
 
@@ -87,9 +89,10 @@
 #VSLIDE?image=assets/img11.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img12.png
-<!-- .slide: data-background-transition="fade" -->
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
+<!-- .slide: data-background-transition="fade" -->
 
 ## Pattern 2: Failure recovery
 
@@ -99,9 +102,10 @@
 #VSLIDE?image=assets/img13.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img14.png
-<!-- .slide: data-background-transition="fade" -->
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
+<!-- .slide: data-background-transition="fade" -->
 
 ## Failure can lead to inconsistency
 
@@ -122,9 +126,10 @@
 #VSLIDE?image=assets/img22.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img23.png
-<!-- .slide: data-background-transition="fade" -->
+<!-- .slide: data-background-transition="none" -->
 
 #VSLIDE
+<!-- .slide: data-background-transition="fade" -->
 
 ## Inconsistency from failure
 
@@ -148,9 +153,10 @@
 #VSLIDE?image=assets/img26.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img27.png
-<!-- .slide: data-background-transition="fade" -->
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
+<!-- .slide: data-background-transition="fade" -->
 
 ## Unacceptable degradation
 
@@ -161,9 +167,10 @@
 #VSLIDE?image=assets/img28.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img29.png
-<!-- .slide: data-background-transition="fade" -->
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
+<!-- .slide: data-background-transition="fade" -->
 
 ## Pattern 4: Denormalize
 
@@ -178,9 +185,10 @@
 #VSLIDE?image=assets/img31.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img32.png
-<!-- .slide: data-background-transition="fade" -->
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
+<!-- .slide: data-background-transition="fade" -->
 
 ## Summary
 
