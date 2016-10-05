@@ -1,8 +1,9 @@
 /* increases contrast on background */
-#presentation h2, #presentation li, #presentation p {
+
+[role=application] h2, [role=application] li, [role=application] p {
     text-shadow: #421540 0 0 0.2em;
 }
 
-#presentation a, #presentation a:visited {
+[role=application] a, [role=application] a:visited {
     color: white;
 }
