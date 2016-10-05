@@ -6,6 +6,8 @@
 
 <p><tt>@jroper</tt></p>
 
+<img style="width: 50px; margin-top: 50px; border: none; background: none; box-shadow: none;" src="assets/lightbend-logo.svg"/>
+
 ![Logo](assets/lightbend-logo.svg)
 
 #HSLIDE
