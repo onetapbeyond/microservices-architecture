@@ -64,8 +64,11 @@ Lightbend
 - Both systems must be responsive at the same time  <!-- .element: class="fragment" -->
 
 #VSLIDE?image=assets/img5.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img6.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img7.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img8.png
 
 #HSLIDE
@@ -78,8 +81,11 @@ Lightbend
 - Allows fail fast handling                     <!-- .element: class="fragment" -->
 
 #VSLIDE?image=assets/img9.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img10.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img11.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img12.png
 
 #HSLIDE
@@ -90,6 +96,7 @@ Lightbend
 - Not every call is necessary to render every page  <!-- .element: class="fragment" -->
 
 #VSLIDE?image=assets/img13.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img14.png
 
 #HSLIDE
@@ -97,13 +104,21 @@ Lightbend
 ## Failure can lead to inconsistency
 
 #VSLIDE?image=assets/img15.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img16.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img17.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img18.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img19.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img20.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img21.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img22.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img23.png
 
 #VSLIDE
@@ -122,9 +137,13 @@ Lightbend
 - Use persistent events as a source of messages     <!-- .element: class="fragment" -->
 
 #VSLIDE?image=assets/img17.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img24.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img25.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img26.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img27.png
 
 #HSLIDE
@@ -136,6 +155,7 @@ Lightbend
 - Users may tolerate no history, but not wrong price        <!-- .element: class="fragment" -->
 
 #VSLIDE?image=assets/img28.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img29.png
 
 #HSLIDE
@@ -149,7 +169,9 @@ Lightbend
     - AKA denormalization                           <!-- .element: class="fragment" -->
 
 #VSLIDE?image=assets/img30.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img31.png
+<!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img32.png
 
 #HSLIDE
