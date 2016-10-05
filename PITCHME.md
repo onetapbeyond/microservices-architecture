@@ -25,8 +25,6 @@
 - Was a monolith, converted to microservices    <!-- .element: class="fragment" -->
 - Will one day overtake ebay!                   <!-- .element: class="fragment" -->
 
-#HSLIDE
-
 #VSLIDE?image=assets/img0.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img1.png
@@ -199,4 +197,5 @@
 ## Next steps
 
 [http://lagomframework.com](http://lagomframework.com)
+
 [https://github.com/jroper/mircoservices-architecture](https://github.com/jroper/mircoservices-architecture)
