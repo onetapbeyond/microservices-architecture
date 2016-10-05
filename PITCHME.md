@@ -27,28 +27,12 @@ Lightbend
 - Was a monolith, converted to microservices    <!-- .element: class="fragment" -->
 - Will one day overtake ebay!                   <!-- .element: class="fragment" -->
 
-#VSLIDE
-
-<div class="image-fragments">
-    <div>
-![0](assets/img0.png)
-    </div>
-    <div class="fragment">
-![1](assets/img1.png)
-    </div>
-    <div class="fragment">
-![2](assets/img2.png)
-    </div>
-    <div class="fragment">
-![3](assets/img3.png)
-    </div>
-    <div class="fragment">
-![4](assets/img4.png)
-    </div>
-    <div class="fragment">
-![5](assets/img5.png)
-    </div>
-</div>
+#VSLIDE?image=assets/img0.png
+#VSLIDE?image=assets/img1.png
+#VSLIDE?image=assets/img2.png
+#VSLIDE?image=assets/img3.png
+#VSLIDE?image=assets/img4.png
+#VSLIDE?image=assets/img5.png
 
 #HSLIDE
 
@@ -76,20 +60,10 @@ Lightbend
 
 #VSLIDE
 
-<div class="image-fragments">
-    <div>
-![5](assets/img5.png)
-    </div>
-    <div class="fragment">
-![6](assets/img6.png)
-    </div>
-    <div class="fragment">
-![7](assets/img7.png)
-    </div>
-    <div class="fragment">
-![8](assets/img8.png)
-    </div>
-</div>
+#VSLIDE?image=assets/img5.png
+#VSLIDE?image=assets/img6.png
+#VSLIDE?image=assets/img7.png
+#VSLIDE?image=assets/img8.png
 
 #HSLIDE
 
@@ -102,20 +76,10 @@ Lightbend
 
 #VSLIDE
 
-<div class="image-fragments">
-    <div>
-![9](assets/img9.png)
-    </div>
-    <div class="fragment">
-![10](assets/img10.png)
-    </div>
-    <div class="fragment">
-![11](assets/img11.png)
-    </div>
-    <div class="fragment">
-![12](assets/img12.png)
-    </div>
-</div>
+#VSLIDE?image=assets/img9.png
+#VSLIDE?image=assets/img10.png
+#VSLIDE?image=assets/img11.png
+#VSLIDE?image=assets/img12.png
 
 #HSLIDE
 
@@ -126,14 +90,8 @@ Lightbend
 
 #VSLIDE
 
-<div class="image-fragments">
-    <div>
-![13](assets/img13.png)
-    </div>
-    <div class="fragment">
-![14](assets/img14.png)
-    </div>
-</div>
+#VSLIDE?image=assets/img13.png
+#VSLIDE?image=assets/img14.png
 
 #HSLIDE
 
@@ -141,35 +99,15 @@ Lightbend
 
 #VSLIDE
 
-<div class="image-fragments">
-    <div>
-![15](assets/img15.png)
-    </div>
-    <div class="fragment">
-![16](assets/img16.png)
-    </div>
-    <div class="fragment">
-![17](assets/img17.png)
-    </div>
-    <div class="fragment">
-![18](assets/img18.png)
-    </div>
-    <div class="fragment">
-![19](assets/img19.png)
-    </div>
-    <div class="fragment">
-![20](assets/img20.png)
-    </div>
-    <div class="fragment">
-![21](assets/img21.png)
-    </div>
-    <div class="fragment">
-![22](assets/img22.png)
-    </div>
-    <div class="fragment">
-![23](assets/img23.png)
-    </div>
-</div>
+#VSLIDE?image=assets/img15.png
+#VSLIDE?image=assets/img16.png
+#VSLIDE?image=assets/img17.png
+#VSLIDE?image=assets/img18.png
+#VSLIDE?image=assets/img19.png
+#VSLIDE?image=assets/img20.png
+#VSLIDE?image=assets/img21.png
+#VSLIDE?image=assets/img22.png
+#VSLIDE?image=assets/img23.png
 
 #VSLIDE
 
@@ -188,23 +126,11 @@ Lightbend
 
 #VSLIDE
 
-<div class="image-fragments">
-    <div>
-![17](assets/img17.png)
-    </div>
-    <div class="fragment">
-![24](assets/img24.png)
-    </div>
-    <div class="fragment">
-![25](assets/img25.png)
-    </div>
-    <div class="fragment">
-![26](assets/img26.png)
-    </div>
-    <div class="fragment">
-![27](assets/img27.png)
-    </div>
-</div>
+#VSLIDE?image=assets/img17.png
+#VSLIDE?image=assets/img24.png
+#VSLIDE?image=assets/img25.png
+#VSLIDE?image=assets/img26.png
+#VSLIDE?image=assets/img27.png
 
 #HSLIDE
 
@@ -216,14 +142,8 @@ Lightbend
 
 #VSLIDE
 
-<div class="image-fragments">
-    <div>
-![28](assets/img28.png)
-    </div>
-    <div class="fragment">
-![29](assets/img29.png)
-    </div>
-</div>
+#VSLIDE?image=assets/img28.png
+#VSLIDE?image=assets/img29.png
 
 #HSLIDE
 
@@ -237,17 +157,9 @@ Lightbend
 
 #VSLIDE
 
-<div class="image-fragments">
-    <div>
-![30](assets/img30.png)
-    </div>
-    <div class="fragment">
-![31](assets/img31.png)
-    </div>
-    <div class="fragment">
-![32](assets/img32.png)
-    </div>
-</div>
+#VSLIDE?image=assets/img30.png
+#VSLIDE?image=assets/img31.png
+#VSLIDE?image=assets/img32.png
 
 #HSLIDE
 

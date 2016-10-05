@@ -1,36 +1,3 @@
-.image-fragments {
-    position: relative;
-    /*
-    left: 0;
-    top: 0;
-    */
-}
-
-/*
-.image-fragments > img:first-child {
-    position: relative;
-}
-*/
-
-.image-fragments > div {
-    position: absolute;
-    left: 0;
-    top: 0;
-}
-
-.reveal section img {
-    margin: 5px 0px;
-}
-
-.reveal section .image-fragments img {
-    border: 0;
-    box-shadow: none;
-    /*
-    height: 80%;
-    margin: 15px 25px;
-    */
-}
-
 /* increases contrast on background */
 #presentation h2, #presentation li, #presentation p {
     text-shadow: #421540 0 0 0.2em;
