@@ -14,12 +14,10 @@ Lightbend
 
 ## Agenda
 
-<div class="image-fragments">
 - Identify pitfalls of monolith conversions     <!-- .element: class="fragment" -->
 - Architect reactive solutions                  <!-- .element: class="fragment" -->
 - See Lagom in action                           <!-- .element: class="fragment" -->
 - Live coding!                                  <!-- .element: class="fragment" -->
-</div>
 
 #HSLIDE
 
