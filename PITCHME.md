@@ -39,6 +39,7 @@
 <!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
+<!-- .slide: data-background-transition="fade" -->
 
 ## What if something goes wrong?
 
