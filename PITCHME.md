@@ -38,6 +38,7 @@ Lightbend
 #VSLIDE?image=assets/img4.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img5.png
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
 
@@ -70,6 +71,7 @@ Lightbend
 #VSLIDE?image=assets/img7.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img8.png
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
 
@@ -87,6 +89,7 @@ Lightbend
 #VSLIDE?image=assets/img11.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img12.png
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
 
@@ -98,6 +101,7 @@ Lightbend
 #VSLIDE?image=assets/img13.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img14.png
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
 
@@ -120,6 +124,7 @@ Lightbend
 #VSLIDE?image=assets/img22.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img23.png
+<!-- .slide: data-background-transition="none" -->
 
 #VSLIDE
 
@@ -145,6 +150,7 @@ Lightbend
 #VSLIDE?image=assets/img26.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img27.png
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
 
@@ -157,6 +163,7 @@ Lightbend
 #VSLIDE?image=assets/img28.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img29.png
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
 
@@ -173,6 +180,7 @@ Lightbend
 #VSLIDE?image=assets/img31.png
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/img32.png
+<!-- .slide: data-background-transition="none" -->
 
 #HSLIDE
 
